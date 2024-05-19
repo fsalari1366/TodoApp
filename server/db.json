@@ -3,7 +3,7 @@
     {
       "id": 1695721753473,
       "title": "todo two",
-      "completed": true
+      "completed": false
     },
     {
       "title": "todo three",
@@ -13,7 +13,7 @@
     {
       "title": "new todo",
       "id": 1716134011501,
-      "completed": false
+      "completed": true
     }
   ]
 }
